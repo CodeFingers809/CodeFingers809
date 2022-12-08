@@ -1,2 +1,7 @@
 # CodeFingers809
-Hi! I am Ayush Bohra. A teenager extremely interested in web development. Haven't made anything yet but sure when I do, this profile would be flooding with repositories! Web development is something I feel is definitely my strong side. There is just a strong kick in it for me. Really that keeps me going. I am from Mumbai, India. One of the busiest places in India. The city never sleeps, so many things happening right and left. I got my interest in web development after seeing a few hacking and crime movies. Usually I would see those scenes and feel like should try something like that too. I wanted to try ethical hacking but got bored and chose web development. Sure now when I can really do programming I understand how fake the hacking scenes in movies really are. I usually don't give as much time to learning new stuff but to build things with the stuff I already know. In my point of view, that is the "**better**" learning way. Learn too much at once, and you'll forget things you learnt first. Still, I don't think I have even learnt anything yet. Still, there is so much more to learn out there. I think I have just stepped into this field. Since it's just a start to my journey, just wish me luck✌.
+Hi! I am Ayush Bohra 🧑.
+I am from Mumbai, India 📍.
+I am a 18yo teenager extremely interested in Web Design 🌐.
+I've been working on small interactive sites and projects to improve my Web Development skills day-by-day 🌇.
+I think I've found my kick in Web Development and I really like the decision I made by choosing this field 📚.
+I've got a lot of things to learn ahead of me but that's not gonna stop me from becoming the best 💎.
