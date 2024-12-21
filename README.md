@@ -18,3 +18,4 @@
   <p style="float: left; width: 100%">
   </p>
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32DE84&height=120&section=footer" alt="footer"/>
