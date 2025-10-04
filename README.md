@@ -6,15 +6,12 @@
     <img alt="Ayush Bohra's GitHub Profile README" src="https://github.com/user-attachments/assets/975e2e6f-2a09-49a0-ae5b-737ea31f0d23" width=400 align="left">
   </picture>
   <div>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=32DE84&vCenter=true&width=435&lines=Hi!+I'm+Ayush+Bohra+%F0%9F%91%8B;ML+Research+Intern+%40+VESIT;AI%2FML+Engineer;Transformer+Architect;LLM+Fine-tuning+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=32DE84&vCenter=true&width=435&lines=Hi!+I'm+Ayush+Bohra+%F0%9F%91%8B" alt="Typing SVG" />
     
   <p style="font-family: monospace">
-    ML Research Intern passionate about building AI from the ground up. From implementing transformers from scratch to fine-tuning LLMs, I love diving deep into the architecture of intelligence. Based in Mumbai, constantly exploring the frontiers of machine learning and creating practical AI solutions.
+    Based in Mumbai and Bachelor of Engineering in AI and Data Science, I am a Math enthusiast. You will catch me usually watching videos and listening podcasts about the most random things. As a life long learner, I take joy in knowing more.
+    Have you ever wondered what can we create if we used our skills to build things just for joy. I see programming as a means to expression. 
   </p>
-  
-  **🔬 Research Focus:** Transformer architectures, LLM fine-tuning, and AI model optimization  
-  **🚀 Currently Building:** Local LLM-powered applications & deep learning projects  
-  **💡 Interests:** NLP, Computer Vision, Generative AI, and building AI tools from scratch
   </div>
 </div>
 
@@ -22,36 +19,10 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-**AI/ML Frameworks:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-**Development & Data:**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
 ### 🚀 Latest Projects
 
 <!-- BLOG-POST-LIST:START -->
-<!-- This section will be automatically updated by GitHub Actions -->
 <!-- BLOG-POST-LIST:END -->
-
-<a href="https://github.com/CodeFingers809?tab=repositories&sort=stargazers">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeFingers809&repo=from-scratch-transformer&theme=dark&title_color=32DE84&icon_color=32DE84&text_color=ffffff&bg_color=0d1117&hide_border=true" />
-</a>
-<a href="https://github.com/CodeFingers809?tab=repositories&sort=stargazers">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeFingers809&repo=ppt-llm&theme=dark&title_color=32DE84&icon_color=32DE84&text_color=ffffff&bg_color=0d1117&hide_border=true" />
-</a>
 
 **📌 [View All Repositories →](https://github.com/CodeFingers809?tab=repositories)**
 
@@ -105,7 +76,7 @@
 ---
 
 <div align="center">
-  <i>💡 "Building AI systems that think, learn, and adapt - one model at a time."</i>
+  <i>💡 "If you want knowledge, you must become an empty vessel."</i>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32DE84&height=120&section=footer" alt="footer"/>
